@@ -6,7 +6,7 @@ GPIO Pins
 | :---------- | :---------------  | --------: |
 | 5           | Speaker 2         | Output    |
 | 6           | Speaker 1         | Output    |
-| 9           | RF Sender         | Output    |
+| 9           | RF Transmitter    | Output    |
 | 12          | Button 1          | Input     |
 | 13          | TV Elevator Up    | Output    |
 | 16          | Button 2          | Input     |
