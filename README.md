@@ -1,4 +1,4 @@
-# Home-Automation-PCB
+﻿# Home-Automation-PCB
 
 GPIO Pins
 ---------
@@ -24,7 +24,7 @@ PCB Top View
 
 PCB Bottom View 
 ---------------
-![PCB Bottom View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Bottom-View.png)![PCB Bottom View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Bottom-View.png)
+![PCB Bottom View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Bottom-View.png)
 
 Bill of Materials
 -----------------
