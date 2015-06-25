@@ -17,3 +17,11 @@ GPIO Pins
 | 24          | Humidity Sensor 2 | Input     |
 | 25          | Humidity Sensor 1 | Input     |
 | 26          | IR LED/Blaster    | Output    |
+
+PCB Top View 
+------------
+![PCB Top View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Top-View.png)
+
+PCB Bottom View 
+---------------
+![PCB Bottom View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Bottom-View.png)
