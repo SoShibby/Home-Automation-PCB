@@ -1,4 +1,17 @@
 ﻿# Home-Automation-PCB
+This is a Home Automation PCB for the Raspberry Pi. The board contains the following features:
+- Switching two pair of speakers on and off independently.
+- RF transmitter for controlling devices such as [Nexa](http://www.nexa.se/LGDR3500.htm) switches.
+- 4 buttons.
+- IR Receiver used for receiving commands from remote controls.
+- 2 Humidity and Temperature sensors.
+- 3 IR LEDS/Blasters for controlling TV, Radio, Decoders etc.
+
+If you want to modify the PCB and add/remove components then I recommend that you use [Fritzing](http://fritzing.org) 
+(you only need to open the following file [Home Automation PCB](https://github.com/SoShibby/Home-Automation-PCB/blob/master/fritzing/Home-Automation-PCB.fzz) in the Fritzing application and you are good to go).
+If you want to order this PCB I recommend that you use [OSH Park](https://oshpark.com), you can find this project [here](https://oshpark.com/shared_projects/Q0L6N2mS)
+and if you click the order button, you will receive an exact copy of the Home Automation PCB (note that you will only get
+the PCB and not the components that are listed [below](https://github.com/SoShibby/Home-Automation-PCB#bill-of-materials)).
 
 GPIO Pins
 ---------
