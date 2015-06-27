@@ -1,4 +1,4 @@
-﻿# Home-Automation-PCB
+﻿# Home Automation PCB
 This is a Home Automation PCB for the Raspberry Pi. The board contains the following features:
 - Switching two pair of speakers on and off independently.
 - RF transmitter for controlling devices such as [Nexa](http://www.nexa.se/LGDR3500.htm) switches.
