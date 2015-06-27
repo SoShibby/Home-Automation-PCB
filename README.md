@@ -6,6 +6,7 @@ This is a Home Automation PCB for the Raspberry Pi. The board contains the follo
 - IR Receiver used for receiving commands from remote controls.
 - 2 Humidity and Temperature sensors.
 - 3 IR LEDS/Blasters for controlling TV, Radio, Decoders etc.
+- 1 Serial port used for communicating with other devices for example TVs.
 
 If you want to modify the PCB and add/remove components then I recommend that you use [Fritzing](http://fritzing.org) 
 (you only need to open the following file [Home Automation PCB](https://github.com/SoShibby/Home-Automation-PCB/blob/master/fritzing/Home-Automation-PCB.fzz) in the Fritzing application and you are good to go).
