@@ -17,8 +17,8 @@ GPIO Pins
 ---------
 | GPIO Number | Component         | Direction |
 | :---------- | :---------------  | --------: |
-| 5           | Speaker 2         | Output    |
-| 6           | Speaker 1         | Output    |
+| 5           | Speaker Pair 2    | Output    |
+| 6           | Speaker Pair 1    | Output    |
 | 9           | RF Transmitter    | Output    |
 | 12          | Button 1          | Input     |
 | 13          | TV Elevator Up    | Output    |
