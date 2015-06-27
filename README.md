@@ -40,6 +40,10 @@ PCB Bottom View
 ---------------
 ![PCB Bottom View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Bottom-View.png)
 
+Fritzing View
+-------------
+![Fritzing View](https://github.com/SoShibby/Home-Automation-PCB/blob/master/images/PCB-Fritzing-View.png)
+
 Bill of Materials
 -----------------
 | Amount | Part Type                             |
